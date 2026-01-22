@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Welcome() {
+function WelcomeExpress() {
   return (
     <div>
         <h1 className="text-3xl font-bold underline">
@@ -12,4 +12,4 @@ function Welcome() {
   )
 }
 
-export default Welcome
+export default WelcomeExpress
